@@ -19,8 +19,8 @@ A simple CRUD API built with NestJS and PostgreSQL for managing contacts.
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [your-project-name]
+git clone [[your-repository-url]](https://github.com/boysimon10/nest-pg-crud)
+cd nest-pg-crud
 ```
 
 2. Install dependencies:
