@@ -83,7 +83,3 @@ npm run start:prod
 | DB_USER    | Database username       | -           |
 | DB_PASSWORD| Database password       | -           |
 | DB_NAME    | Database name           | -           |
-
-## License
-
-[MIT licensed](LICENSE)
