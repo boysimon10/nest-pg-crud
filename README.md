@@ -5,7 +5,6 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-```markdown
 # NestJS PostgreSQL CRUD API
 
 A simple CRUD API built with NestJS and PostgreSQL for managing contacts.
@@ -84,3 +83,7 @@ npm run start:prod
 | DB_USER    | Database username       | -           |
 | DB_PASSWORD| Database password       | -           |
 | DB_NAME    | Database name           | -           |
+
+## License
+
+[MIT licensed](LICENSE)
